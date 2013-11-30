@@ -1,0 +1,193 @@
+
+
+/*body{
+	margin-top: 20px;
+}*/
+h1{
+	padding-top:0px;
+}
+#botonesymensajes{
+	width: 30%;
+	height: 100%;
+	display: inline-block;
+	background: #e74c3c;
+	vertical-align: top;
+	position: fixed;
+    right:0px;
+    top:56px;
+}
+#botonesymensajes p{
+	color: #e74c3c;;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 10px;
+	margin-top:2px;
+	margin-bottom:0px;
+	font-size: 1.5em;
+	text-shadow:0 0 0;
+	font-weight: bold;
+	background-color:white;
+	border-radius: 5px;
+}
+#botones, #mesaespecial, #borrarmesa{
+	border: 2px solid white;
+	padding-right: 10px;
+	margin: 10px;
+	border-radius: 10px;
+}
+#botones a, #mesaespecial a, #borrarmesa a {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	text-decoration: none;
+	color: #e74c3c;
+	text-align: center;
+	font-size: 43px;
+	padding: 2% ;
+	margin: 5px 10px;
+	background-color: #e74c3c;
+  border-radius:10px;
+  border: 1px solid white;
+  text-shadow: -1px 0 white, 0 1px white,
+	  1px 0 white, 0 -1px white;
+	/*box-shadow: 2px 2px 2px white;*/
+}
+#mesaespecial{
+	background-color: #2ecc71;
+}
+#mesaespecial a{
+	background-color: #2ecc71;
+	color: #2ecc71;
+}
+#mesaespecial p{
+	color: #2ecc71;
+}
+##borrarmesa{
+	background-color: #bb0000;
+}
+##borrarmesa a{
+	background-color: #bb0000;
+	color: #bb0000;
+}
+##borrarmesa p{
+	color: #bb0000;
+}
+#botones a:hover, #mesaespecial a:hover, #borrarmesa a:hover{
+	background: white;
+}
+#meseros{
+	width: 70%;
+	display: inline-block;
+	text-align: left;
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 100%;
+	background-color: #e74c3c;
+	text-shadow:1px 1px 1px #7f8c8d;
+
+}
+#mesero1{
+	display: inline-block;
+	width: 32%;
+	vertical-align: top;
+}
+#mesero2{
+	display: inline-block;
+	width: 32%;
+	vertical-align: top;
+
+}
+#mesero3{
+	display: inline-block;
+	width: 32%;
+	vertical-align: top;
+}
+#txt{
+	text-shadow:0 0 0;
+	color: white
+}
+.start{
+	display: inline-block;
+	background-color: #e74c3c; 
+}
+.personas, .total, .mesa{
+	font-size:2em;
+	margin:0px;
+	padding: 0px;
+	color: #bdc3c7;
+	display: inline-block;
+}
+.total{
+	width: 30px;
+}
+.verde{
+	background-color: #2ecc71;
+}
+input{
+	text-align: center;
+	color: white;
+	border-top: 0px;
+	width: 100%;
+	height: 100%;
+	padding: 0;
+	margin:0;
+	font-size: 1em;
+	background-color: #e74c3c;
+	display:inline-block;
+	border: 0px;
+
+}
+#footer, #header{
+	text-align: center;
+	background: #2E3439;
+}
+#footer a{
+	background: #62686B;
+	box-shadow: 0px 0px 0px;
+	border: 1px solid white;
+	border-radius: 10px;
+}
+td {
+	border-left: 1px solid white;
+	border-right: 1px solid white;
+	padding: 0px;
+	margin: 0px;
+	border-bottom: 2px solid white;
+	border-top: 2px solid white;
+
+}
+table{
+	margin: 0px;
+	padding: 0px;
+	border-left: 2px solid white;
+	border-collapse:collapse;
+	border-bottom: 2px solid white;
+	border-top: 2px solid white;
+
+}
+.total{
+	color:white;
+	padding: 0px 13px 0px 13px;
+}
+
+.reloj{
+	color: #bdc3c7;
+}
+.personas{
+	padding: 0px 13px 0px 13px;
+}
+.mesa{
+	text-align: center;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
